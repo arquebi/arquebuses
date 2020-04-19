@@ -1,4 +1,4 @@
-# arquebuses
+# arquebi (arquebuses)
 
 The arquebus `(/ˈɑːrk(w)ɪbəs/ AR-k(w)ib-əs)`, derived from the German Hakenbüchse, was a form of long gun that appeared in Europe during the 15th century.
 Although the term arquebus was applied to many different forms of firearms from the 15th to 17th centuries, it originally referred to "a hand-gun with a hook-like projection or lug on its under surface, useful for steadying it against battlements or other objects when firing.
